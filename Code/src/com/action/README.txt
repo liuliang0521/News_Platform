@@ -1,0 +1,7 @@
+AdminServlet文件 管理员登录、增加、修改、删除登录日志的实现文件
+AfficheServlet文件 网站公告模块的实现文件
+ComServlet文件 信息输入模块的实现文件
+LoginAction文件 前台会员登录、退出模块的实现文件
+MemberAction文件 会员注册、修改资料等模块的实现文件
+MemberManageAction文件 网站后台管理注册会员、查询、冻结、删除会员的模式的实现文件
+NewsServlet文件 管理员进行新闻管理的实现文件
